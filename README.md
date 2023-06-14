@@ -1,1 +1,1 @@
-# C_CPlusPlus-projects
+# C/C++ projects
