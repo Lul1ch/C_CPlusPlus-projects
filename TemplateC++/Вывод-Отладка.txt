@@ -1,0 +1,49 @@
+﻿"PracticaKPO2.exe" (Win32). Загружено "C:\Users\Ilya\source\repos\PracticaKPO2\Debug\PracticaKPO2.exe". Символы загружены.
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x39b4 завершился с кодом 0 (0x0).
+Debug Error!
+
+Program: C:\Users\Ilya\source\repos\PracticaKPO2\Debug\PracticaKPO2.exe
+
+HEAP CORRUPTION DETECTED: before Normal block (#208) at 0x012BE318.
+CRT detected that the application wrote to memory before start of heap buffer.
+
+
+(Press Retry to debug the application)
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\user32.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\win32u.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32full.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp_win.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbase.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\imm32.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\TextShaping.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\uxtheme.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\combase.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msctf.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleaut32.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\TextInputFramework.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\CoreUIComponents.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\CoreMessaging.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ws2_32.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\SHCore.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntmarta.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\WinTypes.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\advapi32.dll". 
+"PracticaKPO2.exe" (Win32). Загружено "C:\Windows\SysWOW64\WinTypes.dll". 
+"PracticaKPO2.exe" (Win32). Выгружено "C:\Windows\SysWOW64\WinTypes.dll"
+Поток 0xb14 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x39dc завершился с кодом -1073741510 (0xc000013a).
+Поток 0x397c завершился с кодом -1073741510 (0xc000013a).
+Поток 0x99c завершился с кодом -1073741510 (0xc000013a).
+Программа "[1592] PracticaKPO2.exe" завершилась с кодом -1073741510 (0xc000013a).

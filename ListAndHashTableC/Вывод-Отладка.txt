@@ -1,0 +1,19 @@
+﻿"Zanytie3.exe" (Win32). Загружено "C:\Users\eregi\source\repos\Zanytie3\Debug\Zanytie3.exe". Символы загружены.
+"Zanytie3.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Zanytie3.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Zanytie3.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Zanytie3.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"Zanytie3.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Zanytie3.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x3e3c завершился с кодом 0 (0x0).
+"Zanytie3.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"Zanytie3.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"Zanytie3.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"Zanytie3.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"Zanytie3.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"Zanytie3.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"Zanytie3.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+Поток 0x21fc завершился с кодом 0 (0x0).
+Поток 0x2760 завершился с кодом 0 (0x0).
+Поток 0x12c0 завершился с кодом 0 (0x0).
+Программа "[1672] Zanytie3.exe" завершилась с кодом 0 (0x0).

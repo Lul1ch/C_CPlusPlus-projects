@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\eregi\source\repos\Zanytie3\Zanytie3\Source.cpp(107,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eregi\source\repos\Zanytie3\Zanytie3\Source.cpp(282,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eregi\source\repos\Zanytie3\Zanytie3\Source.cpp(79): warning C4715: remove_item: значение возвращается не при всех путях выполнения
+  Zanytie3.vcxproj -> C:\Users\eregi\source\repos\Zanytie3\Debug\Zanytie3.exe
